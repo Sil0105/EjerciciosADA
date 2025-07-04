@@ -1,4 +1,5 @@
 //Ejercicio 9
+const prompt = require('prompt-sync')();
 
 let gastos = [
   [1135, 2500,  900, 1600, 2800, 3650, 1100], // Semana 1
